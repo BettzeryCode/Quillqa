@@ -1,0 +1,41 @@
+html{
+    font-size: 16px;
+}
+.social{
+    position: fixed;
+    left: 0;
+    top: 40%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+   /* align-items: flex-end;*/
+    z-index: 0;
+}
+
+.icon_social{
+    color: white;
+    text-decoration: none;
+    padding: .9rem;
+    height: 80px;
+    display: flex;
+    transition: all .5s;
+    background: black;
+    border-radius: 0 1rem 1rem 0;
+    
+}
+
+.social a:hover {
+	background:  #1b8e83;
+    color: #fff;
+    text-decoration: none;
+}
+/*
+@media (min-width 1024px){
+    .social{
+        position: absolute;
+        left: 10px;
+    }
+}*/
+
+
+

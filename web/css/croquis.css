@@ -1,0 +1,170 @@
+/*Hoja de estilos de croquis*/
+.contenedorCroquis{   
+    margin-left: -50%;
+}
+
+.croquis{
+    width: 200px;
+    height: 100px;
+    margin-left: -29px;
+    margin-top: 15%;
+}
+
+.mesa1{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -275px;
+    margin-left: 60px;
+   
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa2{
+    width: 25px;
+    height: 25px;
+    margin-top: -22px;
+    margin-left: 112px;
+    
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa3{
+    width: 23px;
+    height: 25px;
+    
+    margin-top: -25px;
+    margin-left: 162px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa4{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -22px;
+     margin-left: 220px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa5{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: 23px;
+     margin-left: 79px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa6{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -25px;
+    margin-left: 135px;
+   
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa7{
+    width: 25px;
+    height: 25px;
+    margin-top: -22px;
+    margin-left: 192px;
+    
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa8{
+    width: 23px;
+    height: 25px;
+    
+    margin-top: 92px;
+    margin-left: 104px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa9{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -27px;
+     margin-left: 167px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+.mesa10{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: 23px;
+     margin-left: 85px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa11{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -25px;
+     margin-left: 138px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa12{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -28px;
+     margin-left: 190px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa13{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -65px;
+     margin-left: 258px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa14{
+    width: 25px;
+    height: 25px;
+    
+    margin-top: -28px;
+     margin-left: 310px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}
+
+.mesa15{
+    width: 45px;
+    height: 25px;
+    
+    margin-top: 30px;
+     margin-left: 267px;
+    position: relative;
+    cursor: pointer;
+    background: #551B6E;
+}

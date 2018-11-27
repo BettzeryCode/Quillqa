@@ -1,0 +1,68 @@
+
+.bg-primary {
+    width: 74%;
+    margin:auto;
+}
+.bg-primary h3{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.cuadro{
+    margin-top: -6%;
+    
+} 
+.divNombre{
+  width:130px; 
+  /* background:#f08ee3;*/
+  background:#337ab7;
+    margin-top:20px;
+    margin-bottom: 15px;
+    float:left;
+}
+
+/*.divSwitch{
+    width:80px; 
+    margin-right: 70px;
+   float:right;
+   
+}*/
+
+#Seccion h4  {
+    text-align:left;   
+    margin-left: 10px;
+    margin-bottom: 10px;  
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+#Seccion .contenedor {
+    display: flex; /*para hace flexible para qeu las imagenes esten en una sola linea */
+    justify-content:center;
+    flex-wrap: wrap; /* esto es para que  baje las imagenes*/
+    /*para darle un marco a los contenedores*/
+ border-style: dashed;
+ border-width: 2px;
+    border-color:#3c85c5;
+}
+
+
+#Seccion article{
+    margin:25px; /*espacio entre las imagenes*/  
+}
+
+#Seccion img{
+width: 100%;
+max-width: 280px;
+border:2px  solid black;
+}
+
+#Seccion h2  {
+    margin-left:6%;
+   margin-top:5%; 
+    font-family: "Helvetica Neue",Arial, Helvetica, sans-serif;
+  
+}
+ 

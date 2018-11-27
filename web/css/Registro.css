@@ -1,0 +1,202 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #eee !important;
+}
+ 
+main {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 70px;
+    padding-top: 120px;
+}
+
+.content-form {
+    color: #fff; 
+    overflow: auto;  
+}
+
+.sub-title {
+    text-align: center;
+    font-size: 1.5em;
+    color: #5F9EA0;
+    margin: 10px auto;
+}
+ 
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid rgba(13, 60, 115, 0.36);
+    margin-bottom: 5px;
+}
+
+.sub-form {
+    width: 100%;
+    text-align: left;
+    padding: 5px 5px;
+    color: white;
+}
+
+
+.form-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.width-4 {
+    width: 33.1%;
+}
+
+.width-6 {
+    width: 50%;
+}
+
+.width-12 {
+    width: 100%;
+}
+
+
+.btn-save, .btn-back{
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 150px;
+}
+
+.register{
+    font-size: 14px;
+}
+.btn-save {
+    padding: 10px 40px; 
+    background: rgb(70,130,180,0.9);
+}
+
+.btn-save:hover {
+    background: rgb(70,130,180,1.0);
+}
+.btn-back {
+    padding: 10px 0px;
+    background: rgb(95,158,160,0.9);
+}
+
+.btn-back:hover {
+    background: rgb(95,158,160,1.0);
+}
+
+.botones{
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.derechos {
+    background: rgba(0, 0, 0, 0.72);
+    padding: 0 0;
+    color: #fff;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.derechos a {
+    color: #0ad0ff;
+}
+
+@media (max-width: 768px) {
+    .content-form {
+        width: 100%;
+        border-radius: 0;
+        margin-top: 200px;
+    } 
+    .width-6 {
+        width: 100%;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .todo{
+        margin-top: -50px !important;
+    }
+ 
+} 
+
+.content-form{
+    color: black;
+    background: white;
+    width: 90%;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 4px silver;
+}
+ 
+.sub-title{
+    background: #4682B4;
+    color:white;
+    margin: 0;
+    width: 100%;
+    height: 70px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+    box-shadow: 4px 4px 4px silver;
+}
+
+#registrar-form{
+    padding: 0 10%;
+}
+
+.segundo
+{
+    margin-left: 5px;
+}
+input{
+    border-radius: 3px;
+}
+  
+
+.malestar,.apoderado, .fecha{
+    color:black;  
+    font-weight: 100;
+}
+.apoderado{
+    margin-top: 10px;
+}
+ 
+form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+}
+
+.sub-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* para adulto */
+
+.sub-form{
+    color: black;
+    font-weight: 100;
+    margin-top: 6px;
+}
+
+/* empresa */
+.todo{
+    margin-top: -150px;
+}
